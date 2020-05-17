@@ -6,7 +6,7 @@ import java.util.Timer;
  */
 
 //Main class
-public class SchedulerMain {
+public class SocketServer {
 	public static void main(String args[]) throws InterruptedException {
 
        try {
